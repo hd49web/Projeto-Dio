@@ -1,11 +1,12 @@
 # Projeto-Dio
 
-#HD49WEB:computer: 
+# HD49WEB   :
 
-##Projeto Git e Github## PROJETO
+
+## Projeto Git e Github 
+
 ## OLA MUNDO!
 
-##Ola Mundo!
 
 Primeiro repositorio em git e github
 
